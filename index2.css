@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap');
-
 * {
     padding:0;
     margin: 0;
@@ -24,7 +23,6 @@ body {
     background-image: linear-gradient(to right,#060641c6 30%, transparent),
     url("download.webp");
 }
-
 header{
     display: flex;
     justify-content: space-between;
